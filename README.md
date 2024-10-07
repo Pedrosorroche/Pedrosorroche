@@ -1,7 +1,6 @@
 ### Seja Bem Vindo!👋
 
 - 💻 Desenvolvedor Back-end
-- 📚 Estudando Java
 - 📜Formado em Análise e Desenvolvimento de Sistemas
 
 <div>
